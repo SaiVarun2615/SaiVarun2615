@@ -1,4 +1,4 @@
-# Hi there, I'm Bata Sai Varun! 👋
+# Hi there, I'm Bata Sai Varun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 🚀 Passionate About AI, Cloud Computing, and Frontend Development | Exploring DevOps & Software Innovation
 
