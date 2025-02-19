@@ -1,6 +1,8 @@
 # Hi there, I'm Bata Sai Varun! 👋
 
-Welcome to my GitHub profile! I'm a **Computer Science student** passionate about **Cloud Computing, DevOps, and Software Development**. I love exploring new technologies and building innovative solutions. 🚀
+🚀 Passionate About AI, Cloud Computing, and Frontend Development | Exploring DevOps & Software Innovation
+
+Welcome to my GitHub profile! I'm a Computer Science student with a strong passion for AI, Cloud Computing, and Frontend Development. I love exploring new technologies, building innovative solutions, and diving into DevOps and software innovation. 🚀
 
 ## 🛠️ Tech Stack
 
